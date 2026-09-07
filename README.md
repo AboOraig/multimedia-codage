@@ -8,4 +8,4 @@ This project offers a speech recognition application designed for analyzing audi
 - Video Coding:
 A motion detection interface. The goal is to allow users to select a video from their file system, detect movements within that video, and visualize the result with highlighted areas of movement.
 
-Technologies: Python, OpenCV, NumPy, tkinter, Matlab
+Technologies: Python, OpenCV, NumPy, tkinter, Matlab.
